@@ -1,0 +1,30 @@
+_repo: Thoughts-and-Counsels-of-the-Saints-for-Every-Day-of-the-Year_33649
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hammer, Bonaventure
+    aliases:
+    - Hammer, Bonaventura
+    - Hammer, B. (Bonaventure)
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '36489'
+    url: http://www.gutenberg.org/2009/agents/36489
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional calendars'
+- !lcsh 'Christian saints -- Quotations'
+- !lcc 'BV'
+title: Thoughts and Counsels of the Saints for Every Day of the Year
+url: http://www.gutenberg.org/ebooks/33649
